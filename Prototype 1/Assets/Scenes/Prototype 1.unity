@@ -745,10 +745,10 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 194810, guid: 09082afec7b5e824ca611a0cc3264bcd, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 654565529}
+      addedObject: {fileID: 654565530}
     - targetCorrespondingSourceObject: {fileID: 194810, guid: 09082afec7b5e824ca611a0cc3264bcd, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 654565530}
+      addedObject: {fileID: 654565529}
   m_SourcePrefab: {fileID: 100100000, guid: 09082afec7b5e824ca611a0cc3264bcd, type: 3}
 --- !u!1001 &274720729
 PrefabInstance:
@@ -1600,6 +1600,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eab2a28ac30ab23488e22f50503ed4eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 15
 --- !u!54 &654565530
 Rigidbody:
   m_ObjectHideFlags: 0
