@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cabon\\OneDrive\\Documentos\\Unity\\Create with Code- Gregorio A\\UnityLearn-JrProgramming\\Prototype 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|c:\\users\\cabon\\onedrive\\documentos\\unity\\create with code- gregorio a\\unitylearn-jrprogramming\\prototype 1\\assets\\challenge 1\\scripts\\spinpropeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\spinpropeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\cabon\\onedrive\\documentos\\unity\\create with code- gregorio a\\unitylearn-jrprogramming\\prototype 1\\assets\\challenge 1\\scripts\\propeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\challenge 1\\scripts\\propeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|C:\\Users\\Cabon\\OneDrive\\Documentos\\Unity\\Create with Code- Gregorio A\\UnityLearn-JrProgramming\\Prototype 1\\assets\\challenge 1\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|C:\\Users\\Cabon\\OneDrive\\Documentos\\Unity\\Create with Code- Gregorio A\\UnityLearn-JrProgramming\\Prototype 1\\assets\\challenge 1\\scripts\\followplayerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\followplayerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpinPropeller.cs",
+              "DocumentMoniker": "C:\\Users\\Cabon\\OneDrive\\Documentos\\Unity\\Create with Code- Gregorio A\\UnityLearn-JrProgramming\\Prototype 1\\Assets\\Challenge 1\\Scripts\\SpinPropeller.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\SpinPropeller.cs",
+              "ToolTip": "C:\\Users\\Cabon\\OneDrive\\Documentos\\Unity\\Create with Code- Gregorio A\\UnityLearn-JrProgramming\\Prototype 1\\Assets\\Challenge 1\\Scripts\\SpinPropeller.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\SpinPropeller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:45:46.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Propeller.cs",
+              "DocumentMoniker": "C:\\Users\\Cabon\\OneDrive\\Documentos\\Unity\\Create with Code- Gregorio A\\UnityLearn-JrProgramming\\Prototype 1\\Assets\\Challenge 1\\Scripts\\Propeller.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\Propeller.cs",
+              "ToolTip": "C:\\Users\\Cabon\\OneDrive\\Documentos\\Unity\\Create with Code- Gregorio A\\UnityLearn-JrProgramming\\Prototype 1\\Assets\\Challenge 1\\Scripts\\Propeller.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\Propeller.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:32:02.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerControllerX.cs",
+              "DocumentMoniker": "C:\\Users\\Cabon\\OneDrive\\Documentos\\Unity\\Create with Code- Gregorio A\\UnityLearn-JrProgramming\\Prototype 1\\Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "ToolTip": "C:\\Users\\Cabon\\OneDrive\\Documentos\\Unity\\Create with Code- Gregorio A\\UnityLearn-JrProgramming\\Prototype 1\\Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:15:25.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FollowPlayerX.cs",
+              "DocumentMoniker": "C:\\Users\\Cabon\\OneDrive\\Documentos\\Unity\\Create with Code- Gregorio A\\UnityLearn-JrProgramming\\Prototype 1\\Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "ToolTip": "C:\\Users\\Cabon\\OneDrive\\Documentos\\Unity\\Create with Code- Gregorio A\\UnityLearn-JrProgramming\\Prototype 1\\Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:15:03.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
